@@ -1,0 +1,5 @@
+name: Critical
+main: Angel\Critical\Main
+author: Angel(TB, @VortexZMcPe)
+api: 3.0.0-ALPHA6
+version: 0.0.1
